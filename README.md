@@ -1,11 +1,11 @@
-About r-textfeatures
-====================
+About r-textfeatures-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-textfeatures-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mkearney/textfeatures
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-textfeatures-feedstock/blob/main/LICENSE.txt)
 
 Summary: A tool for extracting some generic features (e.g., number of words, line breaks, characters per word, URLs, lower case, upper case, commas, periods, exclamation points, etc.) from strings of text.
 
